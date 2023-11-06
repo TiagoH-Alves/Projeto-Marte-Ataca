@@ -48,9 +48,3 @@ O banco de dados deve incluir as seguintes tabelas:
 
 - Testes de unidade, testes de integração e testes de aceitação devem ser realizados para garantir a qualidade do sistema.
 - Testes de segurança, como testes de penetração, devem ser conduzidos para identificar vulnerabilidades.
-
-## Considerações Finais
-
-Este projeto é apenas um ponto de partida. A implementação real pode variar de acordo com as necessidades específicas do seu plano de saúde, regulamentações locais e tecnologias escolhidas.
-
-Certifique-se de envolver uma equipe multidisciplinar, incluindo desenvolvedores, administradores de sistemas, especialistas em segurança e profissionais de saúde, para garantir que o sistema atenda a todas as necessidades e regulamentações aplicáveis. Além disso, é fundamental considerar as regulamentações de privacidade de dados em sua jurisdição.
